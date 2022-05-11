@@ -2,7 +2,7 @@ import os
 
 window_name = 'window_tfold[0,40000]'
 input_type = ['corrtrain', 'spec corrtrain']
-dataset = "ASCAD_byte_2_25000_65000_40000f:Profiling_traces"
+dataset = "ASCAD_byte_2_45050_46450_1400f:Profiling_traces"
 # number_of_hidden_layers_list = [1, 2, 3, 4, 5]
 number_of_hidden_layers_list = [2]
 # num_epochs_list = [100, 200, 300, 400, 500]
