@@ -12,3 +12,5 @@ models/
 __pychache__/
 
 *.pyc
+
+paper_data/
